@@ -1,0 +1,4 @@
+[submodule "crna-server"]
+  path = crna-server
+[submodule "crna-client"]
+  path = crna-client
