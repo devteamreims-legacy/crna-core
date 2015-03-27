@@ -1,6 +1,8 @@
 [submodule "crna-server"]
 	path = crna-server
 	url = https://github.com/devteamreims/crna-server.git
+  branch = master
 [submodule "crna-client"]
 	path = crna-client
 	url = https://github.com/devteamreims/crna-client.git
+  branch = master
