@@ -1,4 +1,16 @@
 # README
+## Prérequis installés :
+* Git
+* node.js
+* Compass
+```
+$ gem update --system && gem install compass
+```
+* grunt-cli
+```
+$ npm install grunt-cli
+```
+## Git & sources
 Puller le dépot "core"
 ```
 $ git clone https://github.com/devteamreims/crna-core
@@ -18,4 +30,12 @@ $ git pull
 $ cd ../crna-server
 $ git checkout master
 $ git pull
+```
+
+## Installation des modules node & bower
+Dans le répertoire crna-client :
+```
+$ cd crna-client
+$ npm install
+$ bower install
 ```
