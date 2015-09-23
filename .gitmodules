@@ -6,3 +6,6 @@
 	path = crna-client
 	url = https://github.com/devteamreims/crna-client.git
   branch = master
+[submodule "crna-cds-client"]
+	path = crna-cds-client
+	url = git@github.com:devteamreims/crna-cds-client.git
